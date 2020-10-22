@@ -11,4 +11,10 @@ export const Container = styled.div`
   span {
     color: var(--color-link);
   }
+
+  .anuncio {
+    font-size: 14px;
+      font-weight: normal;
+      color: var(--color-gray);
+  }
 `;
